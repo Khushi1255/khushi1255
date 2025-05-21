@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working as **SDE Intern at Agrix**
-- 🌱 I’m currently learning **React, DevOps, and Flutter**
+- 🌱 I’m currently learning **React, DevOps, and AIML**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Frontend, Backend, APIs, and Machine Learning**
 - 📫 How to reach me: **[khushii8969@gmail.com]**
