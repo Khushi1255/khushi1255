@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi1255&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?"username=khushi1255&label=Profile%20views&color=0e75b6&style=flat" alt="khushi1255" />
 </p>
 
 ---
