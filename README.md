@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/028/597/534/large_2x/young-cartoon-female-avatar-student-character-wearing-eyeglasses-file-no-background-ai-generated-png.png?username=khushi1255&label=Profile%20views&color=0e75b6&style=flat" alt="khushi1255" width="250"/>
