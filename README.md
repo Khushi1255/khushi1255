@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?"username=khushi1255&label=Profile%20views&color=0e75b6&style=flat" alt="khushi1255" />
+  <img src="![image](https://github.com/user-attachments/assets/705016a3-fc03-4350-b766-975f269a7057)
+"username=khushi1255&label=Profile%20views&color=0e75b6&style=flat" alt="khushi1255" />
 </p>
 
 ---
