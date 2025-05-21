@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me:
 
 - 🔭 I’m currently working as **SDE Intern at Agrix**
 - 🌱 I’m currently learning **React, DevOps, and AIML**
