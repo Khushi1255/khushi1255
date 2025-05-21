@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/705016a3-fc03-4350-b766-975f269a7057)
-"username=khushi1255&label=Profile%20views&color=0e75b6&style=flat" alt="khushi1255" />
+  <img src="https://static.vecteezy.com/system/resources/previews/028/597/534/large_2x/young-cartoon-female-avatar-student-character-wearing-eyeglasses-file-no-background-ai-generated-png.png?username=khushi1255&label=Profile%20views&color=0e75b6&style=flat" alt="khushi1255" />
 </p>
+
 
 ---
 
