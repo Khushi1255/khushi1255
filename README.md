@@ -29,9 +29,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi1255&show_icons=true&theme=radical" alt="your stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi1255&theme=radical" alt="your streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushi1255&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi1255&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
